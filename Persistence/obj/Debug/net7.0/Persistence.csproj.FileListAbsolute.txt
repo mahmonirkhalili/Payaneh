@@ -1,0 +1,42 @@
+D:\Drive D\Payaneh\Persistence\bin\Debug\net7.0\Persistence.deps.json
+D:\Drive D\Payaneh\Persistence\bin\Debug\net7.0\Persistence.runtimeconfig.json
+D:\Drive D\Payaneh\Persistence\bin\Debug\net7.0\Persistence.dll
+D:\Drive D\Payaneh\Persistence\bin\Debug\net7.0\Persistence.pdb
+D:\Drive D\Payaneh\Persistence\bin\Debug\net7.0\Domain.dll
+D:\Drive D\Payaneh\Persistence\bin\Debug\net7.0\IApplication.dll
+D:\Drive D\Payaneh\Persistence\bin\Debug\net7.0\Domain.pdb
+D:\Drive D\Payaneh\Persistence\bin\Debug\net7.0\IApplication.pdb
+D:\Drive D\Payaneh\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+D:\Drive D\Payaneh\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive D\Payaneh\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+D:\Drive D\Payaneh\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+D:\Drive D\Payaneh\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Drive D\Payaneh\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+D:\Drive D\Payaneh\Persistence\obj\Debug\net7.0\Persistence.dll
+D:\Drive D\Payaneh\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+D:\Drive D\Payaneh\Persistence\obj\Debug\net7.0\Persistence.pdb
+D:\Drive D\Payaneh\Persistence\obj\Debug\net7.0\Persistence.genruntimeconfig.cache
+D:\Drive D\Payaneh\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+D:\Drive D\Payaneh\Persistence\bin\Debug\net7.0\Common.dll
+D:\Drive D\Payaneh\Persistence\bin\Debug\net7.0\Common.pdb
+D:\Source\Payaneh\Persistence\obj\Debug\net7.0\Persistence.dll
+D:\Source\Payaneh\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+D:\Source\Payaneh\Persistence\obj\Debug\net7.0\Persistence.pdb
+D:\Source\Payaneh\Persistence\bin\Debug\net7.0\Persistence.deps.json
+D:\Source\Payaneh\Persistence\bin\Debug\net7.0\Persistence.runtimeconfig.json
+D:\Source\Payaneh\Persistence\bin\Debug\net7.0\Persistence.dll
+D:\Source\Payaneh\Persistence\bin\Debug\net7.0\Persistence.pdb
+D:\Source\Payaneh\Persistence\bin\Debug\net7.0\Common.dll
+D:\Source\Payaneh\Persistence\bin\Debug\net7.0\Domain.dll
+D:\Source\Payaneh\Persistence\bin\Debug\net7.0\IApplication.dll
+D:\Source\Payaneh\Persistence\bin\Debug\net7.0\Domain.pdb
+D:\Source\Payaneh\Persistence\bin\Debug\net7.0\IApplication.pdb
+D:\Source\Payaneh\Persistence\bin\Debug\net7.0\Common.pdb
+D:\Source\Payaneh\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+D:\Source\Payaneh\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Payaneh\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+D:\Source\Payaneh\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+D:\Source\Payaneh\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Source\Payaneh\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+D:\Source\Payaneh\Persistence\obj\Debug\net7.0\Persistence.genruntimeconfig.cache
+D:\Source\Payaneh\Persistence\obj\Debug\net7.0\ref\Persistence.dll

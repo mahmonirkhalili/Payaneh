@@ -1,0 +1,238 @@
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\EndPoint.WinApp.exe
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\EndPoint.WinApp.deps.json
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\EndPoint.WinApp.runtimeconfig.json
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\EndPoint.WinApp.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\EndPoint.WinApp.pdb
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.csproj.AssemblyReference.cache
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.csproj.GenerateResource.cache
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.AssemblyInfoInputs.cache
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.AssemblyInfo.cs
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.csproj.CoreCompileInputs.cache
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\refint\EndPoint.WinApp.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.pdb
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.genruntimeconfig.cache
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\ref\EndPoint.WinApp.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Common.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Common.pdb
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.csproj.CopyComplete
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Enums.NET.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\ExcelDataReader.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\ExcelDataReader.DataSet.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\MathNet.Numerics.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\NPOI.OOXML.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\NPOI.OpenXml4Net.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\NPOI.OpenXmlFormats.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\NPOI.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\ICSharpCode.SharpZipLib.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\SixLabors.ImageSharp.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.Forms.Form1.resources
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.Forms.FrmGetExcelSoHs.resources
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.Forms.FrmMain.resources
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Humanizer.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Domain.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\IApplication.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Persistence.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Persistence.pdb
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Domain.pdb
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\IApplication.pdb
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\AutoMapper.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Http.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.VisualStudio.Threading.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.VisualStudio.Validation.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\RestSharp.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\TaxCollectData.Library.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\cs\Microsoft.VisualStudio.Threading.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\de\Microsoft.VisualStudio.Threading.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\es\Microsoft.VisualStudio.Threading.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\fr\Microsoft.VisualStudio.Threading.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\it\Microsoft.VisualStudio.Threading.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\ja\Microsoft.VisualStudio.Threading.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\ko\Microsoft.VisualStudio.Threading.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\pl\Microsoft.VisualStudio.Threading.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\ru\Microsoft.VisualStudio.Threading.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\tr\Microsoft.VisualStudio.Threading.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\cs\Microsoft.VisualStudio.Validation.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\de\Microsoft.VisualStudio.Validation.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\es\Microsoft.VisualStudio.Validation.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\fr\Microsoft.VisualStudio.Validation.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\it\Microsoft.VisualStudio.Validation.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\ja\Microsoft.VisualStudio.Validation.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\ko\Microsoft.VisualStudio.Validation.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\pl\Microsoft.VisualStudio.Validation.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\ru\Microsoft.VisualStudio.Validation.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\tr\Microsoft.VisualStudio.Validation.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.Forms.User.FrmChangePassword.resources
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.Forms.User.FrmDefineUser.resources
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.Forms.User.FrmLogin.resources
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.Forms.User.FrmUsers.resources
+D:\Drive D\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.Properties.Resources.resources
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\EndPoint.WinApp.exe
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\EndPoint.WinApp.deps.json
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\EndPoint.WinApp.runtimeconfig.json
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\EndPoint.WinApp.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\EndPoint.WinApp.pdb
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\AutoMapper.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Enums.NET.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\ExcelDataReader.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\ExcelDataReader.DataSet.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\MathNet.Numerics.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Http.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.VisualStudio.Threading.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Microsoft.VisualStudio.Validation.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\NPOI.OOXML.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\NPOI.OpenXml4Net.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\NPOI.OpenXmlFormats.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\NPOI.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\RestSharp.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\ICSharpCode.SharpZipLib.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\SixLabors.Fonts.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\SixLabors.ImageSharp.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\System.Text.Encoding.CodePages.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\TaxCollectData.Library.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\cs\Microsoft.VisualStudio.Threading.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\de\Microsoft.VisualStudio.Threading.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\es\Microsoft.VisualStudio.Threading.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\fr\Microsoft.VisualStudio.Threading.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\it\Microsoft.VisualStudio.Threading.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\ja\Microsoft.VisualStudio.Threading.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\ko\Microsoft.VisualStudio.Threading.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\pl\Microsoft.VisualStudio.Threading.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\ru\Microsoft.VisualStudio.Threading.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\tr\Microsoft.VisualStudio.Threading.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\cs\Microsoft.VisualStudio.Validation.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\de\Microsoft.VisualStudio.Validation.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\es\Microsoft.VisualStudio.Validation.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\fr\Microsoft.VisualStudio.Validation.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\it\Microsoft.VisualStudio.Validation.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\ja\Microsoft.VisualStudio.Validation.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\ko\Microsoft.VisualStudio.Validation.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\pl\Microsoft.VisualStudio.Validation.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\ru\Microsoft.VisualStudio.Validation.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\tr\Microsoft.VisualStudio.Validation.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Common.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Domain.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\IApplication.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Persistence.dll
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Common.pdb
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Persistence.pdb
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\Domain.pdb
+D:\Source\Payaneh\EndPoint.WinApp\bin\Debug\net7.0-windows\IApplication.pdb
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.csproj.AssemblyReference.cache
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.Forms.Form1.resources
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.Forms.FrmGetExcelSoHs.resources
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.Forms.FrmMain.resources
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.Forms.User.FrmChangePassword.resources
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.Forms.User.FrmDefineUser.resources
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.Forms.User.FrmLogin.resources
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.Forms.User.FrmUsers.resources
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.Properties.Resources.resources
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.csproj.GenerateResource.cache
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.AssemblyInfoInputs.cache
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.AssemblyInfo.cs
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.csproj.CoreCompileInputs.cache
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.csproj.CopyComplete
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.dll
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\refint\EndPoint.WinApp.dll
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.pdb
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\EndPoint.WinApp.genruntimeconfig.cache
+D:\Source\Payaneh\EndPoint.WinApp\obj\Debug\net7.0-windows\ref\EndPoint.WinApp.dll

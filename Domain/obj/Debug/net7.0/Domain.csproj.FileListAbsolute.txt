@@ -1,0 +1,24 @@
+D:\Drive D\Payaneh\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\Drive D\Payaneh\Domain\bin\Debug\net7.0\Domain.dll
+D:\Drive D\Payaneh\Domain\bin\Debug\net7.0\Domain.pdb
+D:\Drive D\Payaneh\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\Drive D\Payaneh\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive D\Payaneh\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Drive D\Payaneh\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Drive D\Payaneh\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Drive D\Payaneh\Domain\obj\Debug\net7.0\Domain.dll
+D:\Drive D\Payaneh\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\Drive D\Payaneh\Domain\obj\Debug\net7.0\Domain.pdb
+D:\Drive D\Payaneh\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\Source\Payaneh\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\Source\Payaneh\Domain\bin\Debug\net7.0\Domain.dll
+D:\Source\Payaneh\Domain\bin\Debug\net7.0\Domain.pdb
+D:\Source\Payaneh\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\Source\Payaneh\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Payaneh\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Source\Payaneh\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Source\Payaneh\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Source\Payaneh\Domain\obj\Debug\net7.0\Domain.dll
+D:\Source\Payaneh\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\Source\Payaneh\Domain\obj\Debug\net7.0\Domain.pdb
+D:\Source\Payaneh\Domain\obj\Debug\net7.0\ref\Domain.dll

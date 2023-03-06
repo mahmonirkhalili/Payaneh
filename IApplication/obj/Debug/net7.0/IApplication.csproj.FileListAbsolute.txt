@@ -1,0 +1,34 @@
+D:\Drive D\Payaneh\IApplication\bin\Debug\net7.0\IApplication.deps.json
+D:\Drive D\Payaneh\IApplication\bin\Debug\net7.0\IApplication.dll
+D:\Drive D\Payaneh\IApplication\bin\Debug\net7.0\IApplication.pdb
+D:\Drive D\Payaneh\IApplication\obj\Debug\net7.0\IApplication.csproj.AssemblyReference.cache
+D:\Drive D\Payaneh\IApplication\obj\Debug\net7.0\IApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive D\Payaneh\IApplication\obj\Debug\net7.0\IApplication.AssemblyInfoInputs.cache
+D:\Drive D\Payaneh\IApplication\obj\Debug\net7.0\IApplication.AssemblyInfo.cs
+D:\Drive D\Payaneh\IApplication\obj\Debug\net7.0\IApplication.csproj.CoreCompileInputs.cache
+D:\Drive D\Payaneh\IApplication\obj\Debug\net7.0\IApplication.dll
+D:\Drive D\Payaneh\IApplication\obj\Debug\net7.0\refint\IApplication.dll
+D:\Drive D\Payaneh\IApplication\obj\Debug\net7.0\IApplication.pdb
+D:\Drive D\Payaneh\IApplication\obj\Debug\net7.0\ref\IApplication.dll
+D:\Drive D\Payaneh\IApplication\bin\Debug\net7.0\Domain.dll
+D:\Drive D\Payaneh\IApplication\bin\Debug\net7.0\Domain.pdb
+D:\Drive D\Payaneh\IApplication\obj\Debug\net7.0\IApplication.csproj.CopyComplete
+D:\Drive D\Payaneh\IApplication\bin\Debug\net7.0\Common.dll
+D:\Drive D\Payaneh\IApplication\bin\Debug\net7.0\Common.pdb
+D:\Source\Payaneh\IApplication\obj\Debug\net7.0\IApplication.dll
+D:\Source\Payaneh\IApplication\obj\Debug\net7.0\refint\IApplication.dll
+D:\Source\Payaneh\IApplication\obj\Debug\net7.0\IApplication.pdb
+D:\Source\Payaneh\IApplication\bin\Debug\net7.0\IApplication.deps.json
+D:\Source\Payaneh\IApplication\bin\Debug\net7.0\IApplication.dll
+D:\Source\Payaneh\IApplication\bin\Debug\net7.0\IApplication.pdb
+D:\Source\Payaneh\IApplication\bin\Debug\net7.0\Common.dll
+D:\Source\Payaneh\IApplication\bin\Debug\net7.0\Domain.dll
+D:\Source\Payaneh\IApplication\bin\Debug\net7.0\Common.pdb
+D:\Source\Payaneh\IApplication\bin\Debug\net7.0\Domain.pdb
+D:\Source\Payaneh\IApplication\obj\Debug\net7.0\IApplication.csproj.AssemblyReference.cache
+D:\Source\Payaneh\IApplication\obj\Debug\net7.0\IApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Payaneh\IApplication\obj\Debug\net7.0\IApplication.AssemblyInfoInputs.cache
+D:\Source\Payaneh\IApplication\obj\Debug\net7.0\IApplication.AssemblyInfo.cs
+D:\Source\Payaneh\IApplication\obj\Debug\net7.0\IApplication.csproj.CoreCompileInputs.cache
+D:\Source\Payaneh\IApplication\obj\Debug\net7.0\IApplication.csproj.CopyComplete
+D:\Source\Payaneh\IApplication\obj\Debug\net7.0\ref\IApplication.dll

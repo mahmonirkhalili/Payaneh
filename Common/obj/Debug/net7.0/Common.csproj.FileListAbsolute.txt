@@ -1,0 +1,24 @@
+D:\Drive D\Payaneh\Common\bin\Debug\net7.0\Common.deps.json
+D:\Drive D\Payaneh\Common\bin\Debug\net7.0\Common.dll
+D:\Drive D\Payaneh\Common\bin\Debug\net7.0\Common.pdb
+D:\Drive D\Payaneh\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
+D:\Drive D\Payaneh\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive D\Payaneh\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+D:\Drive D\Payaneh\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+D:\Drive D\Payaneh\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+D:\Drive D\Payaneh\Common\obj\Debug\net7.0\Common.dll
+D:\Drive D\Payaneh\Common\obj\Debug\net7.0\refint\Common.dll
+D:\Drive D\Payaneh\Common\obj\Debug\net7.0\Common.pdb
+D:\Drive D\Payaneh\Common\obj\Debug\net7.0\ref\Common.dll
+D:\Source\Payaneh\Common\obj\Debug\net7.0\Common.dll
+D:\Source\Payaneh\Common\obj\Debug\net7.0\refint\Common.dll
+D:\Source\Payaneh\Common\obj\Debug\net7.0\Common.pdb
+D:\Source\Payaneh\Common\bin\Debug\net7.0\Common.deps.json
+D:\Source\Payaneh\Common\bin\Debug\net7.0\Common.dll
+D:\Source\Payaneh\Common\bin\Debug\net7.0\Common.pdb
+D:\Source\Payaneh\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
+D:\Source\Payaneh\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Payaneh\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+D:\Source\Payaneh\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+D:\Source\Payaneh\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+D:\Source\Payaneh\Common\obj\Debug\net7.0\ref\Common.dll
